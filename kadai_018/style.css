@@ -31,19 +31,22 @@ p.top-child {
     height: 200px;
     background-color: #87ceeb;
     position: relative;
-    top: 100px;
+    /* top: 100px; */
 }
 
 #middle-child01 {
     left: 100px;
+    top: 100px;
 }
 
 #middle-child02 {
     left: 300px;
+    top: 100px;
 }
 
 #middle-child03 {
     left: 500px;
+    top: 100px;
 }
 
 #bottom {
