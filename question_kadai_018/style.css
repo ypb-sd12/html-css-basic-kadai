@@ -30,7 +30,7 @@ p.top-child {
 
 } */
 #middle-child02{
-    left: 300px !important;
+    /* left: 300px !important; */
     left: 300px;
 }
 #middle-child03{
