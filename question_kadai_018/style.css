@@ -29,13 +29,13 @@ p.top-child {
 /* #middle-child01{
 
 } */
-#middle-child02{
+#middle > #middle-child02{
     /* left: 300px !important; */
     left: 300px;
 }
-#middle-child03{
+#middle > #middle-child03{
     /* left: 100px !important; */
-    left: 100px;
+    left: 500px;
 }
 /* .temp {
     left: 200px;
